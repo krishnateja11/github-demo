@@ -1,0 +1,5 @@
+:i
+iudahfa hi how are you 
+how is work going 
+i am thinking about you 
+tom performs the clone operation and finds a new file strin.c he wnts to know who added this file to the repository and for what purpose, so,he excutes the git log command.

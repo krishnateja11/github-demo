@@ -1,0 +1,1 @@
+windows common clear file for MINGW64
