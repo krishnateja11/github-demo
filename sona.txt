@@ -1,3 +1,0 @@
-C:\Program Files (x86)\Notepad++
-Yr franzen venmo fanny pack organic ullamco, ad mixtape. Deserunt wolf blog ethical, franzen mixtape chambray echo park sunt YOLO deep v retro iPhone butcher. Butcher blog ex accusamus. Assumenda narwhal aliquip, quinoa irure synth shabby chic cred eiusmod. Leggings chia venmo umami, kogi eu typewriter chillwave. Pariatur celiac minim, organic bitters truffaut +1 kitsch labore eu qui readymade scenester. Man bun viral kale chips, migas listicle salvia four loko nihil letterpress yr adipisicing sustainable offal helvetica.
-subversion is complaining that there is a conflict with the readme file,and subversion does not know how to solve this.so jerry chooose the df option to review the conflict.
